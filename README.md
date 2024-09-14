@@ -1,5 +1,5 @@
 # 💫 About Me:
-🧸estudante de front end<br>
+👻front end student
 
 
 # 💻 Tech Stack:
