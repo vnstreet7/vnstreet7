@@ -5,7 +5,7 @@
 Oi, eu sou o **VN.STREET**, tenho **17** anos, sou um simples estudante apaixonado por programação.
 
  ## 💫 Tecnologias
--  **Desenvolvimento web - **HTML/CSS, JavaScript** width="30px">
+-  **Desenvolvimento web** - **HTML/CSS, JavaScript** "30px">
 -  **Análise de dados** - **Javascript, Python**
 -  **Automação de processos robóticos**
 <br>
