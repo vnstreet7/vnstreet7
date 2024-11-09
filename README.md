@@ -12,7 +12,7 @@ Oi, eu sou o **VN.STREET**, tenho **17** anos, sou um simples estudante apaixona
 
 ## Skills
 
-[![My Skills](https://skillicons.dev/icons?i=py,js,ts,java,css,html,react,ruby,svelte&perline=4)](https://discordapp.com/users/1145142367821775001)
+[![My Skills](https://skillicons.dev/icons?i=py,js,ts,java,css,html,react,ruby,svelte&perline=5)](https://discordapp.com/users/1145142367821775001)
 
 ![](https://github-readme-stats.vercel.app/api?username=vnstreet7&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=vnstreet7&theme=midnight-purple&hide_border=false)<br/>
