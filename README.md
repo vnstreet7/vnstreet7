@@ -1,7 +1,7 @@
 # 💫 About Me:
 👻front end student
 
-<img src="https://cdn.discordapp.com/emojis/1269846830229880832.gif?size=128&quality=lossless" width="50px">
+<img src="https://cdn.discordapp.com/emojis/1207150609351057448.gif?size=128&quality=lossless" width="50px">
 
 
 # 💻 Tech Stack:
