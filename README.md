@@ -4,7 +4,7 @@
 
 Oi, eu sou o **VN.STREET**, tenho **17** anos, sou um simples estudante apaixonado por programação.
 
- ## <img src="https://cdn.discordapp.com/emojis/1269339841137479700.webp?size=128&quality=lossless" width="30px">  Tecnologias
+ ## <img src="https://cdn.discordapp.com/emojis/1233046485378142263.webp?size=128&quality=lossless" width="30px">  Tecnologias
 -  **Desenvolvimento web** - **HTML/CSS, JavaScript**
 -  **Análise de dados** - **Javascript, Python**
 -  **Automação de processos robóticos**
