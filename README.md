@@ -21,8 +21,8 @@ Oi, eu sou o **VN.STREET**, tenho **17** anos, sou um simples estudante apaixona
 
 ## 📫 Como me encontrar:
 
+[![Twitter](https://skillicons.dev/icons?i=x)](https://x.com/VN_STREET)
 [![Discord](https://skillicons.dev/icons?i=discord)](https://discordapp.com/users/1145142367821775001)
-[![Twitter](https://skillicons.dev/icons?i=twitter)](https://x.com/VN_STREET)
 
 ## Projetos
 
