@@ -2,7 +2,7 @@
 
 # Olá curioso(a) <img src="https://cdn.discordapp.com/emojis/1269846830229880832.gif?size=128&quality=lossless" width="30px">
 
-Oi, eu sou o **VN.STREET**, tenho **17** anos, sou um simples estudante apaixonado por programação. <img src="https://cdn.discordapp.com/emojis/1033913508913500270.webp?size=128&quality=lossless" width="25px">
+Oi, eu sou o **VN.STREET**, tenho **17** anos, sou um simples estudante apaixonado por programação. <img src="https://cdn.discordapp.com/emojis/1003813904679444560.gif?size=128&quality=lossless" width="29px">
 
  ## <img src="https://cdn.discordapp.com/emojis/1233046485378142263.webp?size=128&quality=lossless" width="30px">  Tecnologias
 -  **Desenvolvimento web** - **HTML/CSS, JavaScript**
