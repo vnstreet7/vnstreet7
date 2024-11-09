@@ -1,7 +1,7 @@
 # 💫 About Me:
 👻front end student
 
-![My Skills](https://skillicons.dev/icons?i=angular,py,js,eclipse,ts,java,css,html,react,ruby,svelte&perline=4)
+<img src="https://cdn.discordapp.com/emojis/1269846830229880832.gif?size=128&quality=lossless" width="50px">
 
 
 # 💻 Tech Stack:
