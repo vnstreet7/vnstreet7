@@ -29,7 +29,7 @@ Oi, eu sou o **VN.STREET**, tenho **17** anos, sou um simples estudante apaixona
 - **Discord-multi-tool**
 <img src="https://cdn.discordapp.com/emojis/1207150609351057448.gif?size=128&quality=lossless" width="50px">
 
-<img align="center" alt="GIF" src="https://cdn.discordapp.com/attachments/1276593333531181160/1304860003588378685/a_230fc3e5e15a4b86e3eeeaa3a1e8ca0a.gif?ex=6730ed13&is=672f9b93&hm=85f6b8225b09f6e58a21ea497d0e1e7023b3ee1f01f31ca49d7319d7e363bea3&">
+<img align="center" alt="GIF" src="https://cdn.discordapp.com/attachments/1276593333531181160/1304918108447707216/19810b5cfb949e7bd8751baa96665c3c.gif?ex=67312331&is=672fd1b1&hm=d67abbca474ba5abf526f9dc59c9d5d59ade0d08fd0bb80c0fb4e59741f0ac29&">
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
