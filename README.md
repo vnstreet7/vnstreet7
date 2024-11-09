@@ -9,7 +9,6 @@ Oi, eu sou o **VN.STREET**, tenho **17** anos, sou um simples estudante apaixona
 -  **Análise de dados** - **Javascript, Python**
 -  **Automação de processos robóticos**
 <br>
-
 ## Skills
 
 [![My Skills](https://skillicons.dev/icons?i=rust,swift,py,js,php,ts,java,css,html,cs,ruby,svelte&perline=4)](https://discordapp.com/users/1145142367821775001)
