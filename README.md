@@ -4,7 +4,7 @@
 
 Oi, eu sou o **VN.STREET**, tenho **17** anos, sou um simples estudante apaixonado por programação.
 
- ## <img src="https://cdn.discordapp.com/emojis/1269339841137479700.webp?size=128&quality=lossless" width="30px"> Tecnologias
+ ## <img src="https://cdn.discordapp.com/emojis/1269339841137479700.webp?size=128&quality=lossless" width="30px">  Tecnologias
 -  **Desenvolvimento web** - **HTML/CSS, JavaScript**
 -  **Análise de dados** - **Javascript, Python**
 -  **Automação de processos robóticos**
@@ -19,7 +19,7 @@ Oi, eu sou o **VN.STREET**, tenho **17** anos, sou um simples estudante apaixona
 <br>
 </div>
 
-## 📫 Como me encontrar:
+## <img src="https://cdn.discordapp.com/emojis/1123800280446812180.gif?size=128&quality=lossless" width="30px"> Como me encontrar:
 
 [![Twitter](https://skillicons.dev/icons?i=twitter)](https://x.com/VN_STREET)
 [![Discord](https://skillicons.dev/icons?i=discord)](https://discordapp.com/users/1145142367821775001)
