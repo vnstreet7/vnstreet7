@@ -1,6 +1,6 @@
  <div style="background-image: url('icons/background.png'); background-size: cover; background-position: center; color: white; padding: 20px; width: 100vw; height: 100vh; box-sizing: border-box;">
 
-# Feliz <img src="https://cdn.discordapp.com/emojis/1245636995540058148.webp?size=128&animated=true
+# Feliz <img src="https://cdn.discordapp.com/emojis/1245636995540058148.webp?size=128&animated=true" width="50px"> 
 
 Oi, eu sou o **VN.STREET**, tenho **17** anos, sou um simples estudante apaixonado por programação.🤓
 
