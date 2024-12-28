@@ -1,6 +1,4 @@
  <div style="background-image: url('icons/background.png'); background-size: cover; background-position: center; color: white; padding: 20px; width: 100vw; height: 100vh; box-sizing: border-box;">
-
-# Feliz Ano Novo!<img src="https://cdn.discordapp.com/attachments/1276593333531181160/1322537171579830272/beer14.GIF?ex=67713c39&is=676feab9&hm=2adf5fbb0c6eb2cca6e112cdf15579d5eb0d97d34a3b8829990efd060c6237bc&" width="80px"> 
  <p align="center"> 
   <img src="https://cdn.discordapp.com/emojis/1033232218325270568.webp?size=128&animated=true" width="50" height="50" />
   <img src="https://cdn.discordapp.com/emojis/1245636995540058148.webp?size=128&animated=true" width="50" height="50" />
@@ -9,8 +7,10 @@
   <img src="https://cdn.discordapp.com/emojis/1245637718822617110.webp?size=128&animated=true" width="50" height="50" />
   <img src="https://cdn.discordapp.com/emojis/1033232218325270568.webp?size=128&animated=true" width="50" height="50" />
 </p>
+  
+# <p align="center"> Feliz Ano Novo!<img src="https://cdn.discordapp.com/attachments/1276593333531181160/1322537171579830272/beer14.GIF?ex=67713c39&is=676feab9&hm=2adf5fbb0c6eb2cca6e112cdf15579d5eb0d97d34a3b8829990efd060c6237bc&" width="80px"> 
 
-# "Vem aí 365 dias repletos de possibilidades para realizar todos aqueles sonhos de criança que ficaram para trás no ano passado." 
+# <p align="center">"Vem aí 365 dias repletos de possibilidades para realizar todos aqueles sonhos de criança que ficaram para trás no ano passado." 
 
 
 
