@@ -1,20 +1,7 @@
  <div style="background-image: url('icons/background.png'); background-size: cover; background-position: center; color: white; padding: 20px; width: 100vw; height: 100vh; box-sizing: border-box;">
 
-  
- # Feliz Ano Novo!<img src="https://cdn.discordapp.com/attachments/1276593333531181160/1322537171579830272/beer14.GIF?ex=67713c39&is=676feab9&hm=2adf5fbb0c6eb2cca6e112cdf15579d5eb0d97d34a3b8829990efd060c6237bc&" width="80px">  
- <p align="center"> 
-  <img src="https://cdn.discordapp.com/emojis/1033232218325270568.webp?size=128&animated=true" width="50" height="50" />
-  <img src="https://cdn.discordapp.com/emojis/1245636995540058148.webp?size=128&animated=true" width="50" height="50" />
-  <img src="https://cdn.discordapp.com/emojis/1245640111551414355.webp?size=128&animated=true" width="50" height="50" />
-  <img src="https://cdn.discordapp.com/emojis/1245636995540058148.webp?size=128&animated=true" width="50" height="50" />
-  <img src="https://cdn.discordapp.com/emojis/1245637718822617110.webp?size=128&animated=true" width="50" height="50" />
-  <img src="https://cdn.discordapp.com/emojis/1033232218325270568.webp?size=128&animated=true" width="50" height="50" />
-</p>
-
-# <p align="center">"Vem aí 365 dias repletos de possibilidades para realizar todos aqueles sonhos de criança que ficaram para trás no ano passado." 
-
-
-
+# Olá curioso(a) <img src="https://cdn.discordapp.com/emojis/1269846830229880832.webp?size=128&animated=true" width="50px">
+Oi, eu sou o **VN.STREET**, tenho **17** anos, sou um simples estudante apaixonado por programação.🤓
 
  ## <img src="https://cdn.discordapp.com/emojis/1233046485378142263.webp?size=128&quality=lossless" width="30px">  Tecnologias
 -  **Desenvolvimento web** - **HTML/CSS, JavaScript**
@@ -41,7 +28,7 @@
 - **Discord-multi-tool**
 <img src="https://cdn.discordapp.com/emojis/1207150609351057448.gif?size=128&quality=lossless" width="50px">
 
-<img align="center" alt="GIF" src="https://cdn.discordapp.com/attachments/1276593333531181160/1323335170165837945/github.gif?ex=6774236a&is=6772d1ea&hm=7cc0655ca97f286efffdb64f3371885b2b7ae687573363802657c8b772871f52&">
+<img align="center" alt="GIF" src="https://cdn.discordapp.com/attachments/1276593333531181160/1318750264555208784/a_953f07888eb13825464ad41a9f9ccfd8.gif?ex=676ffba4&is=676eaa24&hm=5f54144c4b15b3b79dd1ff68ec9f7a19b5101dfe4b9f23838f9bc75ff5f1f938&">
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
