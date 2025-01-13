@@ -23,6 +23,7 @@ Oi, eu sou o **VN.STREET**, tenho **17** anos, sou um simples estudante apaixona
 
 [![Twitter](https://skillicons.dev/icons?i=twitter)](https://x.com/VN_STREET)
 [![Discord](https://skillicons.dev/icons?i=discord)](https://discordapp.com/users/1145142367821775001)
+[![instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/vn.street7/)
 
 ## Projetos
 - **Discord-multi-tool**
