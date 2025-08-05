@@ -1,7 +1,7 @@
  <div style="background-image: url('icons/background.png'); background-size: cover; background-position: center; color: white; padding: 20px; width: 100vw; height: 100vh; box-sizing: border-box;">
 
 # Olá curioso(a) <img src="https://cdn.discordapp.com/emojis/1269846830229880832.webp?size=128&animated=true" width="50px">
-Oi, sou o **VN.STREET**, não tenho mais **17** anos, mais continu simples estudante apaixonado por programação.🤓
+Oi, sou o **VN.STREET**, não tenho mais **17** anos, mais continuo um simples estudante apaixonado por programação.🤓
 
  ## <img src="https://cdn.discordapp.com/emojis/1233046485378142263.webp?size=128&quality=lossless" width="30px">  Tecnologias
 -  **Desenvolvimento web** - **HTML/CSS, JavaScript**
